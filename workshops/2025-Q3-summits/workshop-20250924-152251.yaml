@@ -1,0 +1,11 @@
+student:
+  username: pascalsu
+  github_username: Snowwpanda
+  name_surname: Snowwpanda Turing
+  computer_type: Linux
+  random_pin: 3552
+workshop:
+  command_version: 1.1.0_23sep25
+  name: Zurich - Cloud Summit
+  date: 20250924-152251
+  teacher: Riccardo
